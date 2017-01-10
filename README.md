@@ -1,8 +1,2 @@
 # graph
-Simple graphing of simple JSON data in the shape of 
-{
-  name,
-  count,
-  color
-}
-  
+Simple rendering of data input by user into piechart.
